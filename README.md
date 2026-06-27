@@ -34,6 +34,7 @@ Experiments on three multimodal medical benchmarks show that MoLWM achieves robu
 - [ ] **Release model code**
 - [ ] **Release dataset preprocessing tools**
 - [ ] **Release training & Inference pipelines**
+- [ ] **Release environment installation steps**
 
 ## 🤗 Awesome Related Works
 
