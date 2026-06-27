@@ -25,7 +25,7 @@ We propose **MoLWM**, which extends medical world modeling beyond imaging observ
 
 Experiments on three multimodal medical benchmarks show that MoLWM achieves robust and competitive performance under diverse asymmetric and balanced modality-availability settings.
 
-<img src="assets/network.jpg" alt="network" style="zoom:67%;" />
+<!-- <img src="assets/network.jpg" alt="network" style="zoom:67%;" /> -->
 
 -----
 
