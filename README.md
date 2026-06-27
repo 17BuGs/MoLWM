@@ -1,5 +1,22 @@
 # MoLWM: Towards Missing-Modality Robust Representation Learning with Latent Medical World Modeling
 
+<div align="center">
+
+  <div style="margin-top: 0; margin-bottom: 0px;">
+    <img src="./assets/molwm-logo.svg" width="40%" />
+  </div>
+
+</div>
+
+<div align="center">
+
+**Feng Wu<sup>1</sup>, Haohan Zhang<sup>2</sup>, Pengfei Yang<sup>1</sup>, Jiati Cai<sup>1</sup>, Junren Wang<sup>2</sup>, Fan Zhou<sup>1 \*</sup>, Jin Yin<sup>2 \*</sup>, Jing Jing<sup>2 \*</sup>**
+<!-- <br> -->
+(\* Corresponding author)
+
+<sup>1</sup>University of Electronic Science and Technology of China, <sup>2</sup>West China Hospital, Sichuan University. 
+</div>
+
 ## 📖 Introduction
 
 Existing medical world models have advanced latent predictive representation learning, but they remain largely image-centric and are not designed for incomplete multimodal patient states. 
