@@ -3,7 +3,7 @@
 <div align="center">
 
   <div style="margin-top: 0; margin-bottom: 0px;">
-    <img src="./assets/molwm-logo.svg" width="40%" />
+    <img src="./assets/molwm-logo.jpg" width="40%" />
   </div>
 
 </div>
@@ -25,7 +25,7 @@ We propose **MoLWM**, which extends medical world modeling beyond imaging observ
 
 Experiments on three multimodal medical benchmarks show that MoLWM achieves robust and competitive performance under diverse asymmetric and balanced modality-availability settings.
 
-<!-- <img src="assets/network.jpg" alt="network" style="zoom:67%;" /> -->
+<img src="assets/network.jpg" alt="network" style="zoom:67%;" />
 
 -----
 
