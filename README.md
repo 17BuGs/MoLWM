@@ -52,21 +52,21 @@ scikit-learn==1.3.2
 pydicom==2.4.4
 ```
 
-### Step 1: Create Conda Environment
+#### Step 1: Create Conda Environment
 
 ```bash
 conda create -n molwm python=3.8 -y
 conda activate molwm
 ```
 
-### Step 2: Install PyTorch
+#### Step 2: Install PyTorch
 
 ```bash
 pip install torch==2.4.1 torchvision==0.19.1 \
   --index-url https://download.pytorch.org/whl/cu124
 ```
 
-### Step 3: Install Project Dependencies
+#### Step 3: Install Project Dependencies
 
 ```bash
 git clone https://github.com/17BuGs/MoLWM.git
