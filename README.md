@@ -32,9 +32,47 @@ Experiments on three multimodal medical benchmarks show that MoLWM achieves robu
 ## 🎯 TODO List
 
 - [x] **Release model code**
+- [x] **Release environment installation steps**
 - [ ] **Release dataset preprocessing tools**
 - [ ] **Release training & Inference pipelines**
-- [ ] **Release environment installation steps**
+
+## ⚙️ Environment Preparation
+
+Overall package versions:
+
+```text
+Python==3.8
+torch==2.4.1
+torchvision==0.19.1
+numpy==1.24.3
+pillow==10.4.0
+pandas==2.0.3
+openpyxl==3.1.5
+scikit-learn==1.3.2
+pydicom==2.4.4
+```
+
+### Step 1: Create Conda Environment
+
+```bash
+conda create -n molwm python=3.8 -y
+conda activate molwm
+```
+
+### Step 2: Install PyTorch
+
+```bash
+pip install torch==2.4.1 torchvision==0.19.1 \
+  --index-url https://download.pytorch.org/whl/cu124
+```
+
+### Step 3: Install Project Dependencies
+
+```bash
+git clone https://github.com/17BuGs/MoLWM.git
+cd MoLWM
+pip install -r requirements.txt
+```
 
 ## 🤗 Awesome Related Works
 
